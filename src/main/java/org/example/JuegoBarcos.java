@@ -30,6 +30,7 @@ public class JuegoBarcos {
 
     }
 
+
     private void inicializarTableros() {
         for (char[] fila : tableroUsuario) {
             Arrays.fill(fila, AGUA);
@@ -92,7 +93,7 @@ public class JuegoBarcos {
             // Turno del usuario
             System.out.println("Turno del usuario:");
             visualizarTablero(tableroUsuario);
-            System.out.println("/////////////////////////");
+            System.out.println("///////////////////////////");
             System.out.println("Turno de la computadora:");
             visualizarTablero(tableroComputadora);
             System.out.println("Introduce la coordenada x:");
