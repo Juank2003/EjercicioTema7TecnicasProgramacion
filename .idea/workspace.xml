@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d0ee877-521f-4564-94ba-92da07679998" name="Changes" comment="Ejercicio1y2">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Cuadricula.java" afterDir="false" />
+    <list default="true" id="4d0ee877-521f-4564-94ba-92da07679998" name="Changes" comment="Ejercicio3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JuegoBarcos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678025699504</updated>
-      <workItem from="1678025700776" duration="3080000" />
+      <workItem from="1678025700776" duration="4138000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio1y2">
       <created>1678026252033</created>
@@ -63,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678026252033</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ejercicio3">
+      <created>1678028791636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678028791636</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio1y2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio1y2" />
+    <MESSAGE value="Ejercicio3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio3" />
   </component>
 </project>
